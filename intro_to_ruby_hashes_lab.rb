@@ -22,7 +22,9 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  my_hash4 = {}
+  my_hash4 = {
+    :key =>>
+  }
   
   my_hash4[:key] = value
 end
