@@ -5,7 +5,7 @@ end
 
 def my_hash
   my_hash = {
-    hash1:
+    hash1: "Hopefully works"
   }
 end
 
