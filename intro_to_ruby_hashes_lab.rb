@@ -40,7 +40,7 @@ def update_counting_hash(hash, key)
   def update_hash(hash, key)
     if update_hash[key]
       update_hash[key] += 1
-    or
+    else
     update_hash[key] = 1
     end
   end
